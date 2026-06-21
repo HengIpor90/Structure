@@ -28,6 +28,6 @@ public class example1{
 
 
         sc.close();
-        
+        // set as
     }
 }
